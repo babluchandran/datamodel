@@ -1,0 +1,6 @@
+flask
+numpy
+pickle-mixin
+sklearn
+flask_restful
+pandas
