@@ -3,4 +3,5 @@ numpy
 pickle-mixin
 sklearn
 flask_restful
-pandas
+ipandas
+gunicorn
