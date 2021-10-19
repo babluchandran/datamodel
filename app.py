@@ -22,3 +22,6 @@ def predict():
     print("Prediction done")
     return jsonify(output)
 
+
+if __name__ == "__main__":
+        app.run()
